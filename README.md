@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Raphael Augusto**, a Software Engineer and data analyst based in Brazil.
+I'm **Raphael Augusto**, a Software Engineer and Data Analyst based in Brazil.
 
 I am a Computer Science graduate focused on building scalable APIs and clean architecture. I love solving complex logic puzzles and turning them into efficient backend systems.
 
